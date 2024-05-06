@@ -25,7 +25,8 @@ The baseline grid is used to ensure:
 
 ## The baseline grid in Scribus
 
-- The line spacing of the baseline grid is the same for the whole document and is defined in the Document Setup
+- The line spacing of the baseline grid is the same for the whole document and is defined in the Document Setup.
+- Enable the display of the baseline grid with _View > Text Frames > Show Baseline Grid_
 - The alignment to the baseline grid must be enabled for each paragraph by setting its line space mode to "Align to Baseline Grid".  
   This can be done for the single paragraph or for a paragraph style.
   
