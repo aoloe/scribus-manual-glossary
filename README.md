@@ -1,6 +1,6 @@
 # scribus-manual-glossary
 
-Explain terms and concept of Scribus and Desktop Publishing
+Explain terms and concept of Scribus and Desktop Publishing.
 
 ## Glossary
 
@@ -10,6 +10,15 @@ To be written:
 
 - Document Setup
 - Preferences
+- Typographic Grid
+
+## Contributing
+
+- Each entry should contain:
+  - A short definition of the term
+  - Why it is important / used
+  - Where to find it in Scribus
+- The explaination should be kept as short as possible (if it gets too long, a short manual might be needed).
 
 ## License
 
