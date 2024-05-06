@@ -17,15 +17,15 @@
 In design, a grid make it easy to align objects to each other.  
 The baseline grid ensures that the lines of text are horizontally aligned to each other.
 
-The goal is to ensure:
+The baseline grid is used to ensure:
 
 - an even spacing between lines,
 - the alignment of the text among columns,
-- the alignemnt of the lines of text between the front and back side of a 
-
+- the alignemnt of the lines of text between the front and back side of a page (books with thin paper tend are harder to read, if you see unaligned lines transpire).
 
 ## The baseline grid in Scribus
 
 - The line spacing of the baseline grid is the same for the whole document and is defined in the Document Setup
 - The alignment to the baseline grid must be enabled for each paragraph by setting its line space mode to "Align to Baseline Grid".  
   This can be done for the single paragraph or for a paragraph style.
+  
